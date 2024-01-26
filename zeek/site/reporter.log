@@ -1,0 +1,9 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	reporter
+#open	2024-01-26-15-35-29
+#fields	ts	level	message	location
+#types	time	enum	string	string
+1706283329.331258	Reporter::WARNING	/home/anthos/Documents/Honours/detgen/captures/capture-260-XXE-rsyslog/logs/test.tsv/Input::READER_ASCII: Did not find requested field logtime in input data file /home/anthos/Documents/Honours/detgen/captures/capture-260-XXE-rsyslog/logs/test.tsv.	(empty)
